@@ -3,7 +3,7 @@
 一款专为中文古籍和 TXT 纯文本设计的零权限轻量级 Android 离线 HTML 阅读器，不重新排版，支持点击、滑动、拖动，支持7M以内大文件。
 
 
-## 🎮 功能与操作说明
+## 功能与操作说明
 
 1.	系统与版本：本软件只支持 Android 12 以上。
 
@@ -22,7 +22,7 @@
 8.	开源协议 (License)：本项目采用 MIT License 开源协议，您可以自由修改、分发及用于个人或商业项目。
 
 
-## 📸 截图
+## 截图
 ![正文](./doc/0.png)
 ![设置](./doc/1.png)
 
@@ -47,7 +47,7 @@
 禁书免翻墙下载https://github.com/xijinping0/gfw-breaker-books
 
 
-## 浏览真实世界
+## 浏览真实信息
 
 令人震惊的真相https://github.com/1992513/www/blob/master/README.md?w#1
 
