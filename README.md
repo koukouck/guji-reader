@@ -1,8 +1,9 @@
-古籍阅读器
+## 古籍阅读器
 
 一款专为中文古籍和 TXT 纯文本设计的零权限轻量级 Android 离线 HTML 阅读器，不重新排版，支持点击、滑动、拖动，支持7M以内大文件。
 
-🎮 功能与操作说明
+
+## 🎮 功能与操作说明
 
 1.	系统与版本：本软件只支持 Android 12 以上。
 
@@ -20,32 +21,33 @@
 
 8.	开源协议 (License)：本项目采用 MIT License 开源协议，您可以自由修改、分发及用于个人或商业项目。
 
-📸 截图
+
+## 📸 截图
 ![正文](./doc/0.png)
 ![设置](./doc/1.png)
 
  ----------------------------------------------------------------------
 
-** 推荐阅读** 
+## 推荐阅读
 
 [《为什么会有人类》](https://freeskyz.saganlu.win/go/mankind) (2023年1月20日)&emsp;/[《为什么要救度众生》](https://freeskyz.saganlu.win/go/save) (2023年4月17日)&emsp;/[《为什么人类是迷的社会》](https://freeskyz.saganlu.win/go/society) (2024年9月30日)
 
- ----------------------------------------------------------------------
 
-** 推荐阅读电子书** 
+## 推荐阅读电子书 
 
 《共产主义终极目的》https://github.com/goodcba/GCC
 
 《魔鬼在统治着我们的世界》https://github.com/gofun72/telove/blob/master/魔鬼在统治着我们的世界.epub
 
 
-** 更多电子书下载** 
+## 更多电子书下载
 
 翻墙部落https://github.com/osurf/szdy
 
 禁书免翻墙下载https://github.com/xijinping0/gfw-breaker-books
 
-** 看真实世界** 
+
+## 浏览真实世界
 
 令人震惊的真相https://github.com/1992513/www/blob/master/README.md?w#1
 
