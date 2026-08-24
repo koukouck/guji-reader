@@ -4,7 +4,7 @@
 
 ![](https://img.shields.io/badge/类型-离线阅读器-blue)
 ![](https://img.shields.io/badge/语言-简体中文-green)
-![](https://img.shields.io/badge/特色-竖排古籍-sienna)
+![](https://img.shields.io/badge/特色-竖排古籍-saddlebrown)
 <p align="center">
   💻 <b>桌面端推荐：<a href="https://github.com/koukouck/webreader">PC 浏览器端阅读器</a></b>
 </p>
