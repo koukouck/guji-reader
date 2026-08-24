@@ -1,10 +1,9 @@
-![](https://img.shields.io/badge/类型-离线阅读器-blue)
-![](https://img.shields.io/badge/语言-简体中文-green)
-
 ## 古籍阅读器
 
 一款专为中文古籍和 TXT 纯文本设计的零权限轻量级 Android 离线 HTML 阅读器，不重新排版，支持点击、滑动、拖动，支持7M以内大文件。
 
+![](https://img.shields.io/badge/类型-离线阅读器-blue)
+![](https://img.shields.io/badge/语言-简体中文-green)
 <p align="center">
   💻 <b>桌面端推荐：<a href="https://github.com/koukouck/webreader">PC 浏览器端阅读器</a></b>
 </p>
